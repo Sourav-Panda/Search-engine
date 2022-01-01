@@ -1,2 +1,2 @@
 # Search-engine
-This a very inefficient search engine built from scratch to get the feel of python good for learning python.
+This a very basic search engine built from scratch to get the feel of python good for learning python.
